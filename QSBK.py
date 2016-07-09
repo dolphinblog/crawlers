@@ -1,6 +1,6 @@
 
 # -*- coding:utf-8 -*-
-
+# added for learngit course apparently.
 __author__ = 'CQC'
 # Originates from http://cuiqingcai.com/990.html,
 # refers to https://github.com/hhzzer/python/blob/master/qiubai1.0.py too.
